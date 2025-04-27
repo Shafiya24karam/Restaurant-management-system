@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  cursor: none;
+}
+:root {
+    --primary-color: #FF6347;
+    --secondary-color: #FFD700;
+    --tertiary-color: #32CD32;
+    --primary_dark: #E55347;
+  }
+  
+ 
+

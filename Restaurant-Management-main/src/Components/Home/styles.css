@@ -1,0 +1,40 @@
+
+  
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .swiper-button-prev{
+    color: white;
+  }
+  .swiper-button-next{
+    color: white;
+  }
+  .swiper-pagination-bullet-active {
+    background-color: #2AB939;
+  }
+  .swiper-pagination-bullet{
+    width: 10px;
+    height: 10px;
+    
+  }
+
+  

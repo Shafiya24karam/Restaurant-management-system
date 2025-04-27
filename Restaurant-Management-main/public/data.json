@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Margherita Pizza",
+      "image": "https://i.ibb.co/jV2jZk2/download-1.jpg",
+      "category": "Italian",
+      "price": 8.99,
+      "quantity": 50,
+      "addedBy": {
+        "name": "John Doe",
+        "email": "john@example.com"
+      },
+      "origin": "Italy",
+      "description": "Classic Margherita Pizza with fresh tomatoes, mozzarella cheese, and basil.",
+      "purchaseCount": 0
+    },
+    {
+      "name": "Sushi",
+      "image": "https://i.ibb.co/PhdYwps/download-3.jpg",
+      "category": "Japanese",
+      "price": 12.99,
+      "quantity": 30,
+      "addedBy": {
+        "name": "Jane Smith",
+        "email": "jane@example.com"
+      },
+      "origin": "Japan",
+      "description": "Assorted sushi platter with fresh fish and vegetables.",
+      "purchaseCount": 0
+    },
+    {
+      "name": "Tacos",
+      "image": "https://i.ibb.co/4jPrSpM/download-4.jpg",
+      "category": "Mexican",
+      "price": 9.99,
+      "quantity": 40,
+      "addedBy": {
+        "name": "Carlos Martinez",
+        "email": "carlos@example.com"
+      },
+      "origin": "Mexico",
+      "description": "Authentic Mexican tacos with beef, chicken, or vegetarian options.",
+      "purchaseCount": 0
+    },
+    {
+      "name": "Butter Chicken",
+      "image": "https://i.ibb.co/w6ztdrg/download-6.jpg",
+      "category": "Indian",
+      "price": 10.99,
+      "quantity": 25,
+      "addedBy": {
+        "name": "Priya Patel",
+        "email": "priya@example.com"
+      },
+      "origin": "India",
+      "description": "Creamy butter chicken with aromatic spices and rich gravy.",
+      "purchaseCount": 0
+    },
+    {
+      "name": "Croissant",
+      "image": "https://i.ibb.co/P5bDMKN/download-7.jpg",
+      "category": "French",
+      "price": 3.99,
+      "quantity": 60,
+      "addedBy": {
+        "name": "Pierre Dupont",
+        "email": "pierre@example.com"
+      },
+      "origin": "France",
+      "description": "Flaky and buttery croissant, perfect for breakfast.",
+      "purchaseCount": 0
+    },
+    {
+      "name": "Paella",
+      "image": "https://i.ibb.co/QHCDjHK/download-8.jpg",
+      "category": "Spanish",
+      "price": 14.99,
+      "quantity": 20,
+      "addedBy": {
+        "name": "Maria Garcia",
+        "email": "maria@example.com"
+      },
+      "origin": "Spain",
+      "description": "Traditional Spanish paella with seafood, chicken, and vegetables.",
+      "purchaseCount": 0
+    },
+    {
+      "name": "Tom Yum Soup",
+      "image": "https://i.ibb.co/M6YR8rc/download-2.jpg",
+      "category": "Thai",
+      "price": 7.99,
+      "quantity": 35,
+      "addedBy": {
+        "name": "Somchai Phasuk",
+        "email": "somchai@example.com"
+      },
+      "origin": "Thailand",
+      "description": "Spicy and sour Tom Yum soup with shrimp and mushrooms.",
+      "purchaseCount": 0
+    },
+    {
+      "name": "Peking Duck",
+      "image": "https://i.ibb.co/mq0fBRg/download-9.jpg",
+      "category": "Chinese",
+      "price": 18.99,
+      "quantity": 15,
+      "addedBy": {
+        "name": "Li Wei",
+        "email": "li@example.com"
+      },
+      "origin": "China",
+      "description": "Crispy Peking duck served with pancakes, cucumber, and hoisin sauce.",
+      "purchaseCount": 0
+    },
+    {
+      "name": "Greek Salad",
+      "image": "https://i.ibb.co/yR4kYcR/download-10.jpg",
+      "category": "Greek",
+      "price": 6.99,
+      "quantity": 45,
+      "addedBy": {
+        "name": "Nikos Papadopoulos",
+        "email": "nikos@example.com"
+      },
+      "origin": "Greece",
+      "description": "Fresh Greek salad with tomatoes, cucumbers, olives, and feta cheese.",
+      "purchaseCount": 0
+    },
+    {
+      "name": "Hamburger",
+      "image": "https://i.ibb.co/TrdpxPz/download-13.jpg",
+      "category": "American",
+      "price": 8.49,
+      "quantity": 55,
+      "addedBy": {
+        "name": "Michael Johnson",
+        "email": "michael@example.com"
+      },
+      "origin": "USA",
+      "description": "Juicy hamburger with lettuce, tomato, cheese, and pickles.",
+      "purchaseCount": 0
+    }
+  ]
+  
